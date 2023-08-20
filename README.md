@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sangeeth 
+### Hi there 👋, my name is Sangeeth Suresh
 #### I am a noobie developer
 ![I am a noobie developer](file:///D:/GitHub/banner.png)
 
