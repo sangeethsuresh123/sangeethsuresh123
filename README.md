@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Sangeeth Suresh
 #### I am a noobie developer
-![I am a noobie developer](file:///D:/GitHub/banner.png)
 
 Currently pursuing BTech CSE from College of Engineering Trivandrum. My hobbies are video games, movies and reading self-help books.
 
