@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Sangeeth Suresh
 #### I am a noobie developer
 
-Currently pursuing BTech CSE from College of Engineering Trivandrum. My hobbies are video games, movies and reading self-help books.
+Currently pursuing BTech CSE from College of Engineering Trivandrum. My hobbies are watching movies and reading self-help books.
 
 Skills: C / Python
 
