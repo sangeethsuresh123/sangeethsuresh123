@@ -6,7 +6,7 @@ Currently pursuing BTech CSE from College of Engineering Trivandrum. My hobbies 
 Skills: C / Python
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Godot 
+- 🌱 I’m currently learning machine learning and data science 
 - 👯 I’m looking to collaborate on learning and developing 
 - 🤔 I’m looking for help with game development 
 
