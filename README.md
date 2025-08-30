@@ -6,9 +6,9 @@ Currently pursuing BTech CSE from College of Engineering Trivandrum. My hobbies 
 Skills: C / Python
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning machine learning and data science 
+- 🌱 I’m currently learning web development and data science 
 - 👯 I’m looking to collaborate on learning and developing 
-- 🤔 I’m looking for help with game development 
+- 🤔 I’m looking for help with web development
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sangeethsuresh123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sangeeth-suresh-431063203/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sangeethsur321)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/sangeeth-suresh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/sangeethsuresh3273)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/sangeehhsach)  
